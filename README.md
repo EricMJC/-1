@@ -1,10 +1,75 @@
-# 内推名单 2020年0915更新
+# 内推名单 2020年0917更新
 小米校招内推名单，电脑端CTRL+F查看自己的状态
+
 {
-    "total": 1963,
+    "total": 1968,
     "page": 1,
     "pageSize": 100,
     "rows": [
+        {
+            "id": 174828446,
+            "name": "彭慧焱",
+            "jobTitle": "会计",
+            "status": "初筛",
+            "archiveReason": null,
+            "appliedAt": "2020-09-17",
+            "recentActivityTime": "2020-09-17 11:45",
+            "jobHrName": "于娇娇",
+            "hireMode": 2,
+            "stage": "初筛",
+            "merged": 0
+        },
+        {
+            "id": 174821666,
+            "name": "曾靖",
+            "jobTitle": "用户运营",
+            "status": "初筛",
+            "archiveReason": null,
+            "appliedAt": "2020-09-17",
+            "recentActivityTime": "2020-09-17 11:17",
+            "jobHrName": "郁瑶",
+            "hireMode": 2,
+            "stage": "初筛",
+            "merged": 0
+        },
+        {
+            "id": 174795414,
+            "name": "李芳华",
+            "jobTitle": "产品经理",
+            "status": "初筛",
+            "archiveReason": null,
+            "appliedAt": "2020-09-17",
+            "recentActivityTime": "2020-09-17 09:40",
+            "jobHrName": "于娇娇",
+            "hireMode": 2,
+            "stage": "初筛",
+            "merged": 0
+        },
+        {
+            "id": 174786061,
+            "name": "李芳华",
+            "jobTitle": "有品电商部-产品经理",
+            "status": "初筛",
+            "appliedAt": "2020-09-17",
+            "recentActivityTime": "2020-09-17 09:18",
+            "jobHrName": "肖云月",
+            "hireMode": 1,
+            "stage": "初筛",
+            "merged": 0
+        },
+        {
+            "id": 174553676,
+            "name": "卢灵芝",
+            "jobTitle": "数据运营",
+            "status": "初筛",
+            "archiveReason": null,
+            "appliedAt": "2020-09-16",
+            "recentActivityTime": "2020-09-16 09:19",
+            "jobHrName": "郁瑶",
+            "hireMode": 2,
+            "stage": "初筛",
+            "merged": 0
+        },
         {
             "id": 174484738,
             "name": "梁晶晶",
@@ -619,13 +684,13 @@
             "id": 173540797,
             "name": "马俊玲",
             "jobTitle": "电池工程师",
-            "status": "初筛",
+            "status": "用人部门筛选",
             "archiveReason": null,
             "appliedAt": "2020-09-11",
-            "recentActivityTime": "2020-09-11 16:00",
-            "jobHrName": "于娇娇",
+            "recentActivityTime": "2020-09-17 16:16",
+            "jobHrName": "周子琪",
             "hireMode": 2,
-            "stage": "初筛",
+            "stage": "用人部门筛选",
             "merged": 0
         },
         {
@@ -697,13 +762,13 @@
             "id": 173366219,
             "name": "张诗晨",
             "jobTitle": "产品经理",
-            "status": "初筛",
+            "status": "用人部门筛选",
             "archiveReason": null,
             "appliedAt": "2020-09-10",
-            "recentActivityTime": "2020-09-10 21:41",
-            "jobHrName": "于娇娇",
+            "recentActivityTime": "2020-09-17 16:09",
+            "jobHrName": "张静媛",
             "hireMode": 2,
-            "stage": "初筛",
+            "stage": "用人部门筛选",
             "merged": 0
         },
         {
@@ -749,26 +814,26 @@
             "id": 173280050,
             "name": "任晓佳",
             "jobTitle": "产品经理",
-            "status": "初筛",
+            "status": "用人部门筛选",
             "archiveReason": null,
             "appliedAt": "2020-09-10",
-            "recentActivityTime": "2020-09-10 15:47",
-            "jobHrName": "于娇娇",
+            "recentActivityTime": "2020-09-17 15:10",
+            "jobHrName": "张静媛",
             "hireMode": 2,
-            "stage": "初筛",
+            "stage": "用人部门筛选",
             "merged": 0
         },
         {
             "id": 173204999,
             "name": "孙德瑾",
             "jobTitle": "采购专员",
-            "status": "初筛",
+            "status": "用人部门筛选",
             "archiveReason": null,
             "appliedAt": "2020-09-10",
-            "recentActivityTime": "2020-09-10 11:18",
-            "jobHrName": "刘庆越",
+            "recentActivityTime": "2020-09-17 15:54",
+            "jobHrName": "周子琪",
             "hireMode": 2,
-            "stage": "初筛",
+            "stage": "用人部门筛选",
             "merged": 0
         },
         {
@@ -880,13 +945,13 @@
             "id": 173094226,
             "name": "王苗月",
             "jobTitle": "产品经理",
-            "status": "初筛",
+            "status": "用人部门筛选",
             "archiveReason": null,
             "appliedAt": "2020-09-09",
-            "recentActivityTime": "2020-09-09 20:36",
-            "jobHrName": "于娇娇",
+            "recentActivityTime": "2020-09-17 16:21",
+            "jobHrName": "张静媛",
             "hireMode": 2,
-            "stage": "初筛",
+            "stage": "用人部门筛选",
             "merged": 0
         },
         {
@@ -958,13 +1023,13 @@
             "id": 172877190,
             "name": "毛煜升",
             "jobTitle": "产品经理",
-            "status": "初筛",
+            "status": "用人部门筛选",
             "archiveReason": null,
             "appliedAt": "2020-09-09",
-            "recentActivityTime": "2020-09-09 00:04",
+            "recentActivityTime": "2020-09-17 19:33",
             "jobHrName": "于娇娇",
             "hireMode": 2,
-            "stage": "初筛",
+            "stage": "用人部门筛选",
             "merged": 0
         },
         {
@@ -1062,13 +1127,13 @@
             "id": 172682350,
             "name": "宋君华",
             "jobTitle": "产品经理",
-            "status": "初筛",
+            "status": "用人部门筛选",
             "archiveReason": null,
             "appliedAt": "2020-09-08",
-            "recentActivityTime": "2020-09-08 10:45",
-            "jobHrName": "于娇娇",
+            "recentActivityTime": "2020-09-17 15:49",
+            "jobHrName": "张静媛",
             "hireMode": 2,
-            "stage": "初筛",
+            "stage": "用人部门筛选",
             "merged": 0
         },
         {
@@ -1127,13 +1192,13 @@
             "id": 172564773,
             "name": "吴昊裕",
             "jobTitle": "产品经理",
-            "status": "初筛",
+            "status": "用人部门筛选",
             "archiveReason": null,
             "appliedAt": "2020-09-07",
-            "recentActivityTime": "2020-09-07 20:09",
-            "jobHrName": "于娇娇",
+            "recentActivityTime": "2020-09-17 16:16",
+            "jobHrName": "张静媛",
             "hireMode": 2,
-            "stage": "初筛",
+            "stage": "用人部门筛选",
             "merged": 0
         },
         {
@@ -1238,7 +1303,14 @@
             "hireMode": 2,
             "stage": "用人部门筛选",
             "merged": 0
-        },
+        }
+    ]
+}
+{
+    "total": 1968,
+    "page": 2,
+    "pageSize": 100,
+    "rows": [
         {
             "id": 172396204,
             "name": "李季",
@@ -1286,7 +1358,7 @@
             "archiveReason": null,
             "appliedAt": "2020-09-07",
             "recentActivityTime": "2020-09-07 10:08",
-            "jobHrName": "于娇娇",
+            "jobHrName": "张静媛",
             "hireMode": 2,
             "stage": "初筛",
             "merged": 0
@@ -1303,15 +1375,7 @@
             "hireMode": 2,
             "stage": "笔试",
             "merged": 0
-        }
-    ]
-}
-
-{
-    "total": 1963,
-    "page": 2,
-    "pageSize": 100,
-    "rows": [
+        },
         {
             "id": 172382719,
             "name": "刘兴军",
@@ -1342,13 +1406,13 @@
             "id": 172378862,
             "name": "吴柳苗",
             "jobTitle": "产品经理",
-            "status": "初筛",
+            "status": "用人部门筛选",
             "archiveReason": null,
             "appliedAt": "2020-09-07",
-            "recentActivityTime": "2020-09-07 09:48",
-            "jobHrName": "于娇娇",
+            "recentActivityTime": "2020-09-17 17:12",
+            "jobHrName": "张静媛",
             "hireMode": 2,
-            "stage": "初筛",
+            "stage": "用人部门筛选",
             "merged": 0
         },
         {
@@ -1407,13 +1471,13 @@
             "id": 172224488,
             "name": "张帆",
             "jobTitle": "产品经理",
-            "status": "初筛",
+            "status": "用人部门筛选",
             "archiveReason": null,
             "appliedAt": "2020-09-06",
-            "recentActivityTime": "2020-09-06 15:39",
-            "jobHrName": "于娇娇",
+            "recentActivityTime": "2020-09-17 17:12",
+            "jobHrName": "张静媛",
             "hireMode": 2,
-            "stage": "初筛",
+            "stage": "用人部门筛选",
             "merged": 0
         },
         {
@@ -1472,13 +1536,13 @@
             "id": 172103360,
             "name": "程博威",
             "jobTitle": "产品经理",
-            "status": "初筛",
+            "status": "用人部门筛选",
             "archiveReason": null,
             "appliedAt": "2020-09-05",
-            "recentActivityTime": "2020-09-05 20:13",
-            "jobHrName": "于娇娇",
+            "recentActivityTime": "2020-09-17 16:39",
+            "jobHrName": "张静媛",
             "hireMode": 2,
-            "stage": "初筛",
+            "stage": "用人部门筛选",
             "merged": 0
         },
         {
@@ -2122,13 +2186,13 @@
             "id": 171738729,
             "name": "郑文喆",
             "jobTitle": "搜索与推荐算法工程师",
-            "status": "二面",
+            "status": "沟通offer",
             "archiveReason": null,
             "appliedAt": "2020-09-04",
-            "recentActivityTime": "2020-09-14 19:02",
+            "recentActivityTime": "2020-09-17 17:31",
             "jobHrName": "张静媛",
             "hireMode": 2,
-            "stage": "二面",
+            "stage": "沟通offer",
             "merged": 0
         },
         {
@@ -2447,13 +2511,13 @@
             "id": 171734002,
             "name": "李翔宇",
             "jobTitle": "机器学习算法工程师",
-            "status": "一面",
+            "status": "二面",
             "archiveReason": null,
             "appliedAt": "2020-09-04",
-            "recentActivityTime": "2020-09-10 14:54",
+            "recentActivityTime": "2020-09-16 17:54",
             "jobHrName": "张静媛",
             "hireMode": 2,
-            "stage": "一面",
+            "stage": "二面",
             "merged": 0
         },
         {
@@ -2546,7 +2610,15 @@
             "hireMode": 2,
             "stage": "笔试",
             "merged": 0
-        },
+        }
+    ]
+}
+
+{
+    "total": 1968,
+    "page": 3,
+    "pageSize": 100,
+    "rows": [
         {
             "id": 171725028,
             "name": "欧阳雅婧",
@@ -2611,15 +2683,7 @@
             "hireMode": 2,
             "stage": "笔试",
             "merged": 0
-        }
-    ]
-}
-
-{
-    "total": 1963,
-    "page": 3,
-    "pageSize": 100,
-    "rows": [
+        },
         {
             "id": 171722023,
             "name": "黄佳琦",
@@ -3416,13 +3480,13 @@
             "id": 170479806,
             "name": "沈田浩",
             "jobTitle": "自然语言处理工程师",
-            "status": "二面",
+            "status": "沟通offer",
             "archiveReason": null,
             "appliedAt": "2020-08-31",
-            "recentActivityTime": "2020-09-14 16:17",
+            "recentActivityTime": "2020-09-16 19:31",
             "jobHrName": "张静媛",
             "hireMode": 2,
-            "stage": "二面",
+            "stage": "沟通offer",
             "merged": 0
         },
         {
@@ -3853,7 +3917,15 @@
             "hireMode": 2,
             "stage": "初筛",
             "merged": 0
-        },
+        }
+    ]
+}
+
+{
+    "total": 1968,
+    "page": 4,
+    "pageSize": 100,
+    "rows": [
         {
             "id": 170349504,
             "name": "李佳晋",
@@ -3918,15 +3990,7 @@
             "hireMode": 2,
             "stage": "初筛",
             "merged": 0
-        }
-    ]
-}
-
-{
-    "total": 1963,
-    "page": 4,
-    "pageSize": 100,
-    "rows": [
+        },
         {
             "id": 170337955,
             "name": "曲轩辰",
@@ -4359,13 +4423,13 @@
             "id": 169985638,
             "name": "胡天赐",
             "jobTitle": "软件开发工程师-java方向",
-            "status": "二面",
+            "status": "沟通offer",
             "archiveReason": null,
             "appliedAt": "2020-08-27",
-            "recentActivityTime": "2020-09-10 15:00",
+            "recentActivityTime": "2020-09-17 16:01",
             "jobHrName": "张静媛",
             "hireMode": 2,
-            "stage": "二面",
+            "stage": "沟通offer",
             "merged": 0
         },
         {
@@ -4852,13 +4916,13 @@
             "id": 169326914,
             "name": "戴土旺",
             "jobTitle": "机器学习算法工程师",
-            "status": "一面",
+            "status": "二面",
             "archiveReason": null,
             "appliedAt": "2020-08-24",
-            "recentActivityTime": "2020-09-11 16:19",
+            "recentActivityTime": "2020-09-16 16:24",
             "jobHrName": "张静媛",
             "hireMode": 2,
-            "stage": "一面",
+            "stage": "二面",
             "merged": 0
         },
         {
@@ -5159,7 +5223,15 @@
             "hireMode": 2,
             "stage": "用人部门筛选",
             "merged": 0
-        },
+        }
+    ]
+}
+
+{
+    "total": 1968,
+    "page": 5,
+    "pageSize": 100,
+    "rows": [
         {
             "id": 168937848,
             "name": "刘瑞琪",
@@ -5223,15 +5295,7 @@
             "hireMode": 1,
             "stage": "初筛",
             "merged": 0
-        }
-    ]
-}
-
-{
-    "total": 1963,
-    "page": 5,
-    "pageSize": 100,
-    "rows": [
+        },
         {
             "id": 168927937,
             "name": "曹聪",
@@ -6468,7 +6532,15 @@
             "hireMode": 2,
             "stage": "用人部门筛选",
             "merged": 0
-        },
+        }
+    ]
+}
+
+{
+    "total": 1968,
+    "page": 6,
+    "pageSize": 100,
+    "rows": [
         {
             "id": 168146897,
             "name": "王力葆",
@@ -6533,15 +6605,7 @@
             "hireMode": 2,
             "stage": "初筛",
             "merged": 0
-        }
-    ]
-}
-
-{
-    "total": 1963,
-    "page": 6,
-    "pageSize": 100,
-    "rows": [
+        },
         {
             "id": 168134371,
             "name": "刘莹",
@@ -7773,7 +7837,15 @@
             "stage": "初筛",
             "merged": 0,
             "archiveReasonDetail": ""
-        },
+        }
+    ]
+}
+
+{
+    "total": 1968,
+    "page": 7,
+    "pageSize": 100,
+    "rows": [
         {
             "id": 167917968,
             "name": "金力成",
@@ -7840,15 +7912,7 @@
             "stage": "初筛",
             "merged": 0,
             "archiveReasonDetail": ""
-        }
-    ]
-}
-
-{
-    "total": 1963,
-    "page": 7,
-    "pageSize": 100,
-    "rows": [
+        },
         {
             "id": 167797132,
             "name": "王潇潇",
@@ -9080,7 +9144,15 @@
             "hireMode": 2,
             "stage": "用人部门筛选",
             "merged": 0
-        },
+        }
+    ]
+}
+
+{
+    "total": 1968,
+    "page": 8,
+    "pageSize": 100,
+    "rows": [
         {
             "id": 167112421,
             "name": "段群",
@@ -9146,15 +9218,7 @@
             "hireMode": 2,
             "stage": "初筛",
             "merged": 0
-        }
-    ]
-}
-
-{
-    "total": 1963,
-    "page": 8,
-    "pageSize": 100,
-    "rows": [
+        },
         {
             "id": 166948899,
             "name": "李贺圆",
@@ -9809,13 +9873,13 @@
             "id": 166540492,
             "name": "孙叶青",
             "jobTitle": "产品经理",
-            "status": "初筛",
+            "status": "用人部门筛选",
             "archiveReason": null,
             "appliedAt": "2020-08-10",
-            "recentActivityTime": "2020-08-10 18:57",
-            "jobHrName": "于娇娇",
+            "recentActivityTime": "2020-09-17 19:26",
+            "jobHrName": "张静媛",
             "hireMode": 2,
-            "stage": "初筛",
+            "stage": "用人部门筛选",
             "merged": 0
         },
         {
@@ -10392,71 +10456,6 @@
             "recentActivityTime": "2020-06-15 11:08",
             "hireMode": 2,
             "stage": "初筛",
-            "merged": 0,
-            "archiveReasonDetail": ""
-        },
-        {
-            "id": 145444609,
-            "name": "林玮",
-            "jobTitle": "数据分析师",
-            "status": "暂不匹配",
-            "archiveReason": "淘汰",
-            "appliedAt": "2020-04-19",
-            "recentActivityTime": "2020-06-04 14:27",
-            "hireMode": 2,
-            "stage": "用人部门筛选",
-            "merged": 0,
-            "archiveReasonDetail": ""
-        },
-        {
-            "id": 145188164,
-            "name": "余泳",
-            "jobTitle": "机器学习算法工程师",
-            "status": "暂不匹配",
-            "archiveReason": "淘汰",
-            "appliedAt": "2020-04-17",
-            "recentActivityTime": "2020-06-04 14:17",
-            "hireMode": 2,
-            "stage": "初筛",
-            "merged": 0,
-            "archiveReasonDetail": ""
-        },
-        {
-            "id": 145156473,
-            "name": "辛奕",
-            "jobTitle": "用户研究员",
-            "status": "暂不匹配",
-            "archiveReason": "淘汰",
-            "appliedAt": "2020-04-17",
-            "recentActivityTime": "2020-06-04 14:27",
-            "hireMode": 2,
-            "stage": "用人部门筛选",
-            "merged": 0,
-            "archiveReasonDetail": ""
-        },
-        {
-            "id": 144896591,
-            "name": "王帆",
-            "jobTitle": "产品经理",
-            "status": "暂不匹配",
-            "archiveReason": "淘汰",
-            "appliedAt": "2020-04-16",
-            "recentActivityTime": "2020-06-04 14:27",
-            "hireMode": 2,
-            "stage": "用人部门筛选",
-            "merged": 0,
-            "archiveReasonDetail": ""
-        },
-        {
-            "id": 144830465,
-            "name": "刘昱霖",
-            "jobTitle": "数据分析师",
-            "status": "暂不匹配",
-            "archiveReason": "淘汰",
-            "appliedAt": "2020-04-16",
-            "recentActivityTime": "2020-06-04 14:27",
-            "hireMode": 2,
-            "stage": "用人部门筛选",
             "merged": 0,
             "archiveReasonDetail": ""
         }
